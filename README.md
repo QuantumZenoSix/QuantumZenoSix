@@ -41,19 +41,29 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bobby-valenzuela"><img src="https://github-readme-stats.vercel.app/api?username=bobby-valenzuela&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobby-valenzuela's GitHub stats" /></a>
+<a href="http://www.github.com/QuantumZenoSix"><img src="https://github-readme-stats.vercel.app/api?username=QuantumZenoSix&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobby-valenzuela's GitHub stats" /></a>
 
-<a href="http://www.github.com/bobby-valenzuela"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bobby-valenzuela&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/QuantumZenoSix"><img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumZenoSix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/bobby-valenzuela" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobby-valenzuela&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/QuantumZenoSix" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumZenoSix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/bobby-valenzuela/LinuxRay" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bobby-valenzuela&repo=LinuxRay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bobby-valenzuela/ReverseShellLinux" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bobby-valenzuela&repo=ReverseShellLinux&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/QuantumZenoSix/LinuxRay" align="left">
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=LinuxRay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/QuantumZenoSix/ReverseShellLinux" align="right">        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=ReverseShellLinux&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/bobby-valenzuela/WebsocketChatApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bobby-valenzuela&repo=WebsocketChatApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+    <a href="https://github.com/QuantumZenoSix/WebsocketChatApp" align="left">
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=WebsocketChatApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+</div>
 
 ### Support Me
 
