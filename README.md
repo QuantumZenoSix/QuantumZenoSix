@@ -61,29 +61,32 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=linux-ray&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
     <a href="https://github.com/QuantumZenoSix/tomahawk" align="right">        
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=tomahwak&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=tomahawk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
 
 <div width="100%" align="center">
     <a href="https://github.com/QuantumZenoSix/dev-environment" align="left">
-        <img align="left" width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=dev-environment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="center" width="75%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=dev-environment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </div>
 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/QuantumZenoSix">
-    <img src="https://github-readme-stats.vercel.app/api?username=QuantumZenoSix&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobby-valenzuela's GitHub stats" width="45%" align="left" />
-</a>
+<div width="100%" align="center">
+    <a href="http://www.github.com/QuantumZenoSix">
+        <img src="https://github-readme-stats.vercel.app/api?username=QuantumZenoSix&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobby-valenzuela's GitHub stats" width="45%" align="left" />
+    </a>
 
-<a href="http://www.github.com/QuantumZenoSix">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumZenoSix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%" align="left" />
-</a>
+    <a href="http://www.github.com/QuantumZenoSix">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumZenoSix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%" align="left" />
+    </a>
 
-<a href="https://github.com/QuantumZenoSix" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumZenoSix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="45%" align="right" />
-</a>
+    <a href="https://github.com/QuantumZenoSix" align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumZenoSix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="45%" align="right" />
+    </a>
+
+</div>
 
 <br />
 <br />
