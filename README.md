@@ -133,3 +133,6 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 
 <a href="https://www.buymeacoffee.com/bobbyvalenzuela"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 -->
+
+### Interests
+If you want to know what tech/personal subjects I have an interest in it's probably best to check out my [Course List](https://github.com/QuantumZenoSix/QuantumZenoSix/blob/main/MOOC.md) so see what I enjoy studying in my free time.
