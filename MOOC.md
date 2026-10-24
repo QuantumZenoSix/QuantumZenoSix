@@ -1,5 +1,6 @@
 A collection of online courses I've completed.
-Of course, this really isn't a representation of my skill level (as experience and actual projects are best to show that) but more to show the topics in tech (or otherwise) that I am interested in and that I choose to spend my time learning more about.
+Of course, this really isn't proof of competency/ability but more so a demonstration of the things I like to spend my time learning.
+It's more so here for reference and goes to to show the topics in tech (or otherwise) that I am interested in.
 
 <br>
 
@@ -57,6 +58,10 @@ Of course, this really isn't a representation of my skill level (as experience a
 - [Udemy] [Git Started with GitHub](https://www.udemy.com/certificate/UC-f50c930c-5703-4507-ad65-f8c395d3cad2/)
 - [Udemy] [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/certificate/UC-WNR4QLMW/)
 - [Udemy] [Vim Masterclass](https://www.udemy.com/course/vim-commands-cheat-sheet/learn/lecture/7340588#overview)
+- [Udemy] [Easy to Advanced Data Structures](https://www.udemy.com/certificate/UC-9d18570f-242b-4293-8f5b-62ae6591ddad/)
+- [Udemy] [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/certificate/UC-adca8895-a1b0-4dbf-9eb8-e39624f5c4c2/)
+- [Udemy] [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/certificate/UC-85f96512-0fcb-4cd8-9d94-ecf6e0cc2ea2/)
+- [Udemy] [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/certificate/UC-a6c260f9-0ca7-4a7b-b3aa-91b32c75d174/)
 - [HackerRank] [CSS](https://www.hackerrank.com/certificates/20f293546b75)
 
 
@@ -97,6 +102,7 @@ Of course, this really isn't a representation of my skill level (as experience a
 - [Udemy] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-ca9ba64c-fb99-4f7b-ba72-aa0c0d0b3fdc/)
 - [Udemy] [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-c8bca456-cdbf-4a6e-9b5a-be3c2448bffc/)
 - [Udemy] [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/certificate/UC-5156fa50-bf94-4734-a50b-d5a8afdda8a6/)
+- [Udemy] [Complete SQL and Databases Bootcamp: Zero to Mastery](https://www.udemy.com/certificate/UC-9e8051bf-d65d-4301-803c-14f8806aebcf/)
 - [HackerRank] [SQL I](https://www.hackerrank.com/certificates/77b99c882405)
 - [HackerRank] [SQL II](https://www.hackerrank.com/certificates/beea5f1e38cb)
 
@@ -160,11 +166,15 @@ Of course, this really isn't a representation of my skill level (as experience a
 # Philosophy, Science, and Other
 - [Coursera] [Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://www.coursera.org/account/accomplishments/certificate/6D2WBMK9DABW)
 - [Coursera] [Philosophy, Science and Religion: Religion and Science](https://www.coursera.org/account/accomplishments/certificate/PVTKGMW7XU6R)
+- [Coursera] [Philosophy, Science and Religion: Philosophy and Religion](https://www.coursera.org/account/accomplishments/verify/431IN9PQO4LA)
+- [Coursera] [Philosophy, Science and Religion: Science and Philosophy](https://www.coursera.org/account/accomplishments/verify/U29QPI4Z71CI)
+- [Coursera] [Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/account/accomplishments/verify/QSDB8YV0U0AN)
 - [Coursera] [Introduction to Philosophy](https://www.coursera.org/account/accomplishments/certificate/C6R8HASZDPKW)
 - [Coursera] [Think Again I: How to Understand Arguments](https://www.coursera.org/account/accomplishments/certificate/JRDNMJDRBAEG)
 - [Coursera] [Quantum Mechanics](https://www.coursera.org/account/accomplishments/certificate/TADRRG79NUYE)
 - [Coursera] [Getting Started With Music Theory](https://www.coursera.org/account/accomplishments/certificate/8DBBMEQHH4KV)
 - [HackerRank] [Problem Solving](https://www.hackerrank.com/certificates/b49d4b071992)
+
 
 
 
