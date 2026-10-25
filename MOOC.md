@@ -114,7 +114,8 @@ It's more so here for reference and goes to to show the topics in tech (or other
 - - [Linux Tools for Developers](https://www.coursera.org/account/accomplishments/certificate/NBFMMVPNSYW4)
   - [Open Source Software Development Methods](https://www.coursera.org/account/accomplishments/certificate/8F7DP9M5QTDH)
   - [Linux for Developers](https://www.coursera.org/account/accomplishments/certificate/SSDDL2GNT4RJ)
-  - [Using Git for Distributed Development](https://www.coursera.org/account/accomplishments/certificate/35ES99KD9G4E) 
+  - [Using Git for Distributed Development](https://www.coursera.org/account/accomplishments/certificate/35ES99KD9G4E)
+- [Linux: Introduction to Shell Scripting for DevOps](https://www.coursera.org/account/accomplishments/certificate/V5R9XV8ZAL9F)
 - [Udemy] [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/certificate/UC-92c759b4-02ba-4bae-af77-2103a1ac3551/)
 - [Udemy] [Complete Bash Shell Scripting](https://www.udemy.com/certificate/UC-ac118b1e-af83-41bb-a3f2-87cc51f34de0/)
 - [Udemy] [Complete Linux Troubleshooting Course (Practical Examples)](https://www.udemy.com/certificate/UC-42a5d115-b8f8-435f-88ff-c1bc5288fd08/)
@@ -142,6 +143,7 @@ It's more so here for reference and goes to to show the topics in tech (or other
 
 # General IT and Networking
 - [Coursera] [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/9N7ZH7R5VCM3)
+- - [Credly](https://www.credly.com/badges/13cc6128-0f91-470d-b509-91a484e9f5ac?source=linked_in_profile)
 - - [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/R9XCJKYDPCPR)
   - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/certificate/Q2JWSYJBKHPU)
   - [System Administration and IT Infrastructure Services](https://www.coursera.org/account/accomplishments/certificate/9CCF9C7ELX42)
