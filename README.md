@@ -5,7 +5,7 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 
 * 🌍  I'm based in Bellflower, CA
 * ✉️  You can contact me at [bobby-valenzuela@protonmail.com](mailto:bobby-valenzuela@protonmail.com)
-* 🚀  I'm currently working on [dev-environment](https://github.com/QuantumZenoSix/home-lab)
+* 🚀  I'm currently working on [home-lab](https://github.com/QuantumZenoSix/home-lab)
 * 🧠  I'm learning Docker, Terraform, and general Infrastructure automation
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I'm interested in automation, scripting, weird music, and reading 📖
