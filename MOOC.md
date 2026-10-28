@@ -63,6 +63,7 @@ It's more so here for reference and goes to to show the topics in tech (or other
 - [Udemy] [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/certificate/UC-85f96512-0fcb-4cd8-9d94-ecf6e0cc2ea2/)
 - [Udemy] [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/certificate/UC-a6c260f9-0ca7-4a7b-b3aa-91b32c75d174/)
 - [HackerRank] [CSS](https://www.hackerrank.com/certificates/20f293546b75)
+- [Triplebyte] [Triplebyte Certified](https://triplebyte.com/tb/bobby-valenzuela-klfwpk4/certificate)
 
 
 <br />
