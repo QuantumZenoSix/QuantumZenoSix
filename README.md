@@ -68,6 +68,17 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 <br />
 
 <div width="100%" align="center">
+    <a href="https://github.com/QuantumZenoSix/dev-environment" align="left">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=dev-environment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/QuantumZenoSix/home-lab" align="right">        
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=home-lab&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+</div>
+
+<br />
+
+<div width="100%" align="center">
     <a href="https://github.com/QuantumZenoSix/etl-pipeline-testing" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=etl-pipeline-testing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
@@ -76,7 +87,6 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
     </a>
 </div>
 
-<br />
 <br />
 <br />
 <br />
