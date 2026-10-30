@@ -66,6 +66,10 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 </div>
 
 <br />
+<br />
+<br />
+<br />
+<br />
 
 <div width="100%" align="center">
     <a href="https://github.com/QuantumZenoSix/dev-environment" align="left">
@@ -76,6 +80,9 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
     </a>
 </div>
 
+<br />
+<br />
+<br />
 <br />
 
 <div width="100%" align="center">
@@ -97,7 +104,12 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 #### My GitHub Stats
 
