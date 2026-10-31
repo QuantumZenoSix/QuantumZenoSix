@@ -100,11 +100,6 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 #### My GitHub Stats
 <div width="100%" align="center">
@@ -129,7 +124,7 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 
 <div width="100%" align="center">
     <a href="https://github.com/QuantumZenoSix" align="center"">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=QuantumZenoSix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="50%" align="center" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=QuantumZenoSix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="40%" align="center" />
     </a>
 </div>
 
