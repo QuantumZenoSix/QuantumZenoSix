@@ -58,42 +58,37 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 
 <div width="100%" align="center">
     <a href="https://github.com/QuantumZenoSix/linux-ray" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=linux-ray&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="left" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=QuantumZenoSix&repo=linux-ray&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
     <a href="https://github.com/QuantumZenoSix/tomahawk" align="right">        
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=tomahawk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=QuantumZenoSix&repo=tomahawk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
-
 <br />
 <br />
 <br />
 <br />
 <br />
-
 <div width="100%" align="center">
     <a href="https://github.com/QuantumZenoSix/dev-environment" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=dev-environment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="left" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=QuantumZenoSix&repo=dev-environment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
     <a href="https://github.com/QuantumZenoSix/home-lab" align="right">        
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=home-lab&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=QuantumZenoSix&repo=home-lab&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
-
 <br />
 <br />
 <br />
 <br />
-
 <div width="100%" align="center">
     <a href="https://github.com/QuantumZenoSix/etl-pipeline-testing" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=etl-pipeline-testing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="left" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=QuantumZenoSix&repo=etl-pipeline-testing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
     <a href="https://github.com/QuantumZenoSix/dir-sync" align="right">        
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=dir-sync&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=QuantumZenoSix&repo=dir-sync&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
-
 <br />
 <br />
 <br />
@@ -112,10 +107,9 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 <br />
 
 #### My GitHub Stats
-
 <div width="100%" align="center">
     <a href="http://www.github.com/QuantumZenoSix" align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=QuantumZenoSix&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobby-valenzuela's GitHub stats" width="47%" align="left" />
+        <img src="https://github-stats-extended.vercel.app/api?username=QuantumZenoSix&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobby-valenzuela's GitHub stats" width="47%" align="left" />
     </a>
     <a href="http://www.github.com/QuantumZenoSix" align="right">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumZenoSix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="47%" align="right" />
@@ -135,7 +129,7 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 
 <div width="100%" align="center">
     <a href="https://github.com/QuantumZenoSix" align="center"">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumZenoSix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="50%" align="center" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=QuantumZenoSix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="50%" align="center" />
     </a>
 </div>
 
@@ -146,7 +140,7 @@ As a self-taught dev, I have a passion for coding and a special interest in auto
 
 <!-- <div width="100%" align="center"> -->
 <!--     <a href="https://github.com/QuantumZenoSix/WebsocketChatApp" align="left"> -->
-<!--       <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumZenoSix&repo=WebsocketChatApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /> -->
+<!--       <img align="left" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=QuantumZenoSix&repo=WebsocketChatApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /> -->
 <!--     </a> -->
 <!-- </div> -->
 
